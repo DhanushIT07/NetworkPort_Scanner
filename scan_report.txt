@@ -1,0 +1,11 @@
+
+Host: 192.168.1.1 ()
+State: up
+
+Protocol: tcp
+Port: 21	State: open
+Port: 22	State: filtered
+Port: 23	State: filtered
+Port: 53	State: open
+Port: 80	State: open
+Port: 443	State: open
